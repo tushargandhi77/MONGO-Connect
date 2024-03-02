@@ -9,7 +9,7 @@ __version__ = "0.0.3"
 REPO_NAME = "MONGO-Connect"
 PKG_NAME= "databaseautomation"
 AUTHOR_USER_NAME = "tushargandhi77"
-AUTHOR_EMAIL = "gandhitushar509@gmail.com"
+AUTHOR_EMAIL = "gandhitushar418@gmail.com"
 
 setup(
     name=PKG_NAME,
